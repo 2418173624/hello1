@@ -1,0 +1,3 @@
+.CourColumn li:hover a, .CourColumn li.cur a {
+    color: #f34f4f;
+}
